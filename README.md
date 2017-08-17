@@ -1,2 +1,3 @@
 # page-exercise
-Mentoring exercise
+Frontend Exercises
+
