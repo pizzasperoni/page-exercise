@@ -106,18 +106,10 @@ header a:hover {
   background: #35424a;
 }
 
-#newsletter h1{
-  float: left;
-}
-
-#newsletter form {
-  float: right;
-  margin-top: 15px;
-}
 
 #newsletter input[type="email"] {
-  padding: 4px;
-  height: 25px;
+  padding: 7px;
+  height: 40px;
   width: 250px;
 }
 
